@@ -10,7 +10,7 @@
     "start": "node server.mjs",
     "dev": "nodemon server.mjs",
     "type": "git",
-    "url": "
+    "url": ""
   },
   "author": "",
   "license": "MIT",
