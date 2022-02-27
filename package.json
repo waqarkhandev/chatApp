@@ -4,11 +4,12 @@
   "description": "server of integrated with dailogflow.",
   "main": "server.mjs",
   "scripts": {
+    "start": "node server.mjs",
+    "dev": "nodemon server.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "start": "node server.mjs",
-    "dev": "nodemon server.mjs",
+    
     "type": "git",
     "url": ""
   },
