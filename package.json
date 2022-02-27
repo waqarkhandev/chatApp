@@ -10,14 +10,14 @@
     "start": "node server.mjs",
     "dev": "nodemon server.mjs",
     "type": "git",
-    "url": "git+https://github.com/waqarkhan09099/Dailogflow-Integrated-Server.git"
+    "url": "
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/waqarkhan09099/Dailogflow-Integrated-Server/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/waqarkhan09099/Dailogflow-Integrated-Server#readme",
+  
   "dependencies": {
     "@google-cloud/dialogflow": "^4.6.0",
     "cors": "^2.8.5",
